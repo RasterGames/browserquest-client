@@ -1,0 +1,12 @@
+# General Settings
+encoding: utf-8
+title: BrowserQuest
+description: "BrowserQuest"
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+
+plugins:
+- jekyll-redirect-from
